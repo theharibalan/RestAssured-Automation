@@ -88,7 +88,7 @@ SpringEcom is a **Spring Boot**-based e-commerce backend that manages products, 
 
 ---
 ## 📧 Contact
-For any queries, reach out at [your.email@example.com](mailto:your.email@example.com) or open an issue in the repository!
+For any queries, reach out at [srs.haribalan2003@gmail.com](mailto:srs.haribalan2003@gmail.com) or open an issue in the repository!
 
 Happy Coding! 🚀
 
