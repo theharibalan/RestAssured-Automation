@@ -86,6 +86,8 @@ SpringEcom is a **Spring Boot**-based e-commerce backend that manages products, 
 - **RESTful APIs with Swagger UI**
 - **Unit & Integration Testing**
 
+- 📌 GitHub Repository: SpringEcom Code -> https://github.com/theharibalan/SpringEcom
+
 ---
 ## 📧 Contact
 For any queries, reach out at [srs.haribalan2003@gmail.com](mailto:srs.haribalan2003@gmail.com) or open an issue in the repository!
