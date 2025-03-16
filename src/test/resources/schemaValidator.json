@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "number"
+      },
+      "laptopBrand": {
+        "type": "string"
+      },
+      "modelName": {
+        "type": "string"
+      },
+      "laptopTag": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "id",
+      "laptopBrand",
+      "modelName",
+      "laptopTag"
+    ]
+  }
+}
